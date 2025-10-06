@@ -4,4 +4,3 @@ this is solar charger. The duration of your power usage depends on the battery y
 
 ![1759745711652](https://github.com/user-attachments/assets/8a3e27fd-8426-4743-a73d-0dcb193d41cb)
 
-![1759745711630](https://github.com/user-attachments/assets/5929ee34-50df-434c-ba8c-66379a40e497)
